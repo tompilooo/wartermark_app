@@ -30,8 +30,7 @@ Built using:
 ## 🖥️ UI Overview
 
 ```
-<img width="1293" height="763" alt="image" src="https://github.com/user-attachments/assets/b301943c-b4f0-454e-8774-9d9ed49ebcc9" />
-
+![Watermark Tool UI](https://github.com/user-attachments/assets/b301943c-b4f0-454e-8774-9d9ed49ebcc9)
 ```
 
 ---
